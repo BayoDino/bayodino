@@ -4,8 +4,9 @@ Bayo or SaS :large_blue_diamond: She/Her :large_blue_diamond: Javascript'ian :la
   </div>
   I'm BayoDino, a female indie game developer with an odd interest in Math, Chemistry and Physics, I primarily program browser based video-games in javascript, and trying to learn Java.
   <br>I'm a freelance programmer and looking to get commissioned or help people with coding.<br>
+  <hr>
   Javascript Level: :blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::black_large_square::black_large_square: %80 (Almost an Expert)<br>
-  Java Level: :blue_square::blue_square::blue_square::black_large_square::black_large_square::black_large_square::black_large_square::black_large_square::black_large_square::black_large_square: %20 (Almost an Expert)<br>
+  Java Level: :blue_square::black_large_square::black_large_square::black_large_square::black_large_square::black_large_square::black_large_square::black_large_square::black_large_square::black_large_square: %10 (Beginner)<br>
 <!--
 **BayoDino/bayodino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
