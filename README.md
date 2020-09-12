@@ -1,6 +1,6 @@
 <div align='center'>
   <h1>:cyclone: <a href="https://fontmeme.com/bayonetta-video-game-font/"><img src="https://fontmeme.com/permalink/200912/f119f81c90b2e52adc6e0031a984cd9b.png" alt="bayonetta-video-game-font" border="0"></a> :cyclone:</h1>
-
+Bayo or SaS :large_blue_diamond: She/Her :large_blue_diamond: Javascript Developer :large_blue_diamond: Iranian
 <!--
 **BayoDino/bayodino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
