@@ -1,6 +1,7 @@
 <div align='center'>
   <h1>:cyclone: <a href="https://fontmeme.com/bayonetta-video-game-font/"><img src="https://fontmeme.com/permalink/200912/f119f81c90b2e52adc6e0031a984cd9b.png" alt="bayonetta-video-game-font" border="0"></a> :cyclone:</h1>
 Bayo or SaS :large_blue_diamond: She/Her :large_blue_diamond: Javascript'ian :large_blue_diamond: not so proud Iranian<br>
+  </div>
   I'm BayoDino, a female indie game developer with an odd interest in Math, Chemistry and Physics, I primarily program browser based video-games in javascript, and trying to learn Java.
   <br>I'm a freelance programmer and looking to get commissioned or help people with coding.<br>
   Javascript Level: :blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::black_large_square::black_large_square: %80 (Almost an Expert)<br>
@@ -19,4 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div>
+
