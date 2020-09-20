@@ -7,6 +7,7 @@ Bayo or SaS :large_blue_diamond: She/Her :large_blue_diamond: Javascript'ian :la
   <hr>
   Javascript Level: :blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::black_large_square::black_large_square: %80 (Almost an Expert)<br>
   Java Level: :blue_square::black_large_square::black_large_square::black_large_square::black_large_square::black_large_square::black_large_square::black_large_square::black_large_square::black_large_square: %10 (Beginner)<br>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bayodino)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **BayoDino/bayodino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
